@@ -44,28 +44,28 @@
     * Step 11: Distribution by Age,Gender and Location <Clustered Bar Chart>
                 Each bar shows the count of individuals in a specific age group split by gender and location.
 
-     <!-- Uploading "Screenshot (49).png"... -->           
+ <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/986064e1-bceb-4da1-83ab-4fc120b8a1f5" />         
 
     * Step 12: Percentage of Customers in each Loyalty Level<Donut Chart>
                 Each Pie slice represents the percentage of customer in each loyalty level, with the largest slice indicating the most common tier.
 
-     <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/42e42869-cfea-4124-8a8f-1e6000d8577f" />
+ <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/42e42869-cfea-4124-8a8f-1e6000d8577f" />
 
     * Step 13: Satisfaction rate in % <Gauge>
                 The filled portion of the gauge represents the percentage of satisfied customers, with the arc pointing to the value.
-     <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/26d55364-1dde-41fe-8f5c-eba42c08b58e" />
+ <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/26d55364-1dde-41fe-8f5c-eba42c08b58e" />
 
     * Step 14: Customer Distribution by Group and Location <Funnel>
                 The funnel chart explains the percentage of customers in each group per location. This distribution helps us to understand where different
                 types of customers are cocentrated and informs targeted strategies.
 
-     <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a055e3e7-bc5f-41c3-8ea7-898547ce1b78" />
+ <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a055e3e7-bc5f-41c3-8ea7-898547ce1b78" />
 
     * Step 15: Satisfaction Score by Age Group <Stacked Column Chart>
                 Satisfaction Score measures how satisfied users are with a product or service. I segmented these scores by age group to identify trends and
                 tailor improvements for different demographics.
 
-     <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dfe0f4fd-9b07-42a0-9252-e789138e664c" />
+ <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/dfe0f4fd-9b07-42a0-9252-e789138e664c" />
 
     * Step 16: Correlation between NPS Category <Pie Chart>
                 Net Promoter Score(NPS) measures customer loyalty based on their likehood to recommend a product or service, rated on a scale from 0(not likely)
@@ -92,5 +92,6 @@
 ### CONCLUSION
     This dashboard delivers key insights into customer satisfaction and loyalty, highlighting trends like strong loyalty in Austin.TX and opportunities to improve
     satisfaction in Phoenix.AZ. These findings helps us tailor marketing and support to boost customer experience. The visualizations and underlying data are accessible
-    via the <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ecfcf336-eb5e-45be-8444-8534b9b34768" />
+    via the 
+ <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ecfcf336-eb5e-45be-8444-8534b9b34768" />
 
