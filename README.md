@@ -74,7 +74,7 @@
 
     * Step 4: Customer Distribution by Group and Location <Funnel>
               The funnel chart explains the percentage of customers in each group per location. This distribution helps us to understand where different
-                types of customers are cocentrated and informs targeted strategies.
+                types of customers are concentrated and informs targeted strategies.
 
  <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a055e3e7-bc5f-41c3-8ea7-898547ce1b78" />
 
@@ -122,5 +122,4 @@
     It highlights Austin, TX as a loyalty stronghold and Phoenix, AZ as an area needing focused improvement efforts. 
     These insights can directly inform marketing, product, and customer support strategies to boost retention and overall experience. 
     
- <img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/ecfcf336-eb5e-45be-8444-8534b9b34768" />
 
