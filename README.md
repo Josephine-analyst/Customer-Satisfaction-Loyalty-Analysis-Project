@@ -5,6 +5,7 @@
    - Identify regional strengths and pain points
    - Segment customers by loyalty (NPS categories) and demographics
    - Provide actionable insights to improve retention, experience, and long-term loyalty.
+<img width="1366" height="768" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/7a9128d4-d458-4383-8716-371e7ab04f17" />
 
 ## Technologies & Tools
 - **Data Preparation & Cleaning**: Microsoft Excel + Power BI (Power Query)
